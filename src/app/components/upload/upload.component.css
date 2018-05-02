@@ -1,0 +1,10 @@
+.src-img{
+  width: 150px;
+  height: 150px;
+}
+.src-img img{
+  width: 100%;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+}
